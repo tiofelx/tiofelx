@@ -1,7 +1,6 @@
 Hi 👋, I'm João Pedro Félix
 
-A multidisciplinary Full-Stack developer from Nairobi Kenya
-Coding
+A student of Information systems from São Paulo, Brazil
 
 🌱 I’m currently learning Front-End 
 
