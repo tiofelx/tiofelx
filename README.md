@@ -4,7 +4,7 @@
 <h3> :man: &nbsp;Sobre mim</h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias.
-- 🎓 &nbsp; Estudando Sistemas de Informação no <a href="link da sua faculdade">UNIFEB - Barretos</a>.
+- 🎓 &nbsp; Estudando Sistemas de Informação no <a href="https://www.unifeb.edu.br">UNIFEB - Barretos</a>.
 - 🌱 &nbsp; Aprendendo mais sobre Back-End.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
