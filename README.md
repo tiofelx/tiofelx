@@ -16,7 +16,7 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   
-  **SKILLS:**
+  **LINGUAGENS**
   
   [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
