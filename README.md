@@ -1,5 +1,10 @@
 ## Olá, eu sou o João Pedro Félix Velho
 
+- 🖥️ Full-Stack Development
+- 📚 Atualmente estudando TypeScript, AngularJS, VueJS, TailwindCSS e MongoDB
+
+##
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiofelx&show_icons=true&theme=github_dark) 
 
 ## Tecnologias | Hard Skills
