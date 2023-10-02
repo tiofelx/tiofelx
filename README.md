@@ -2,5 +2,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiofelx&show_icons=true&theme=github_dark) 
 
-<img height="100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
