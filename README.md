@@ -1,7 +1,7 @@
 ## Olá, eu sou o João Pedro Félix Velho
 
 - 🖥️ Full-Stack Development
-- 📚 Atualmente estudando TypeScript, AngularJS, VueJS, TailwindCSS e MongoDB
+- 📚 Atualmente estudando TypeScript, AngularJS, TailwindCSS, VueJS e MongoDB
 
 ##
 
