@@ -1,6 +1,6 @@
 ## Olá, eu sou o João Pedro Félix Velho
 
-- 📚 Atualmente estudando TypeScript, TailwindCSS, VueJS, NestJS, NextJS e MongoDB
+- 📚 Atualmente estudando TypeScript, TailwindCSS, NestJS, NextJS e MongoDB
 
 ##
 
@@ -14,7 +14,6 @@
           <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
           <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
           <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-          <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
           <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
           <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"" />
           <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
