@@ -1,6 +1,6 @@
 ## Olá, eu sou o João Pedro Félix Velho
 
-- 📚 Atualmente estudando TypeScript, TailwindCSS, NestJS, NextJS e MongoDB
+- 📚 Atualmente estudando Java, Spring Boot, PostgreSQL
 
 ##
 
