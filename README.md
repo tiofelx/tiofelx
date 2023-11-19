@@ -13,7 +13,7 @@ object **byoki** {
 }
 ```
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiofelx&show_icons=true&theme=github_dark) center
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiofelx&show_icons=true&theme=github_dark)
 
 ## 
 <div style="display: inline-block"> <br>
