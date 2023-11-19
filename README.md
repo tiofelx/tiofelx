@@ -33,9 +33,7 @@ object **byoki** {
   </tr>
 </table>
 <br />
-
-
-## 
+ 
 <div style="display: inline-block"> <br>
           <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
           <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
