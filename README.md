@@ -1,25 +1,19 @@
-## Olá, eu sou o João Pedro Félix Velho 👋
-
-Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
-
-- 📚 Atualmente estudando Java, Spring Boot, PostgreSQL
-
 ## Mais sobre mim
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```kotlin
-object **Félix** {
+object **byoki** {
  val name = "João Pedro Félix Velho"
  val acknowledgements = "Software Engineer"
 
- val primarySkillset = "ALGUMAS HABILIDADES"
- val languages = listOf("Java", "Spring Boot", "JavaScript", "NodeJs")
+ val primarySkillset = "ESTOU ESTUDANDO"
+ val languages = listOf("Java", "Spring Boot", "PostgreSQL")
 
 }
 ```
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiofelx&show_icons=true&theme=github_dark) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiofelx&show_icons=true&theme=github_dark) center
 
 ## 
 <div style="display: inline-block"> <br>
