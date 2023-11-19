@@ -15,6 +15,10 @@ object **byoki** {
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiofelx&show_icons=true&theme=github_dark)
 
+<a href="https://github.com/Gurupreet" title="ilustração do mapeamento de linguagens">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaswerts&theme=dracula&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>
+</a>
+
 ## 
 <div style="display: inline-block"> <br>
           <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
