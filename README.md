@@ -19,13 +19,13 @@ object **byoki** {
   <tr>
     <td>
       <img
-        align="left"
+        align="center"
         src="https://github-readme-stats.vercel.app/api?username=tiofelx&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true"
         alt="Github stats"
       />
       <br />
       <img
-        align="left"
+        align="center"
         src="https://github-readme-streak-stats.herokuapp.com/?user=tiofelx&theme=github_dark&hide_border=false"
         alt="Github stats"
       />
@@ -34,7 +34,7 @@ object **byoki** {
 </table>
 <br />
 
---- ### 🏆 GitHub Profile Trophy:
+### 🏆 GitHub Profile Trophy:
 
 <p align="center">
   <a
