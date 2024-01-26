@@ -27,7 +27,6 @@ object **byoki** {
       <img
         align="center"
         src="https://github-readme-streak-stats.herokuapp.com/?user=tiofelx&theme=github_dark&hide_border=false"
-        alt="Github stats"
       />
     </td>
   </tr>
