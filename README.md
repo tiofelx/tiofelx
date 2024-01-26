@@ -61,6 +61,7 @@ object **byoki** {
           <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
           <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
           <img height="50em" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original.svg"/>
+          <img height="50em" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-plain.svg"/>
 </div>
 
 ## 
