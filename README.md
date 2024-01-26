@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 ```kotlin
-object **byoki** {
+object **Félix** {
  val name = "João Pedro Félix Velho"
  val acknowledgements = "Software Engineer"
 
