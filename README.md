@@ -1,6 +1,7 @@
 ## Mais sobre mim
 
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+<img align="right" width="50" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 ```kotlin
 object **byoki** {
@@ -50,12 +51,16 @@ object **byoki** {
 
 <div align="center" style="display: inline-block"> <br>
           <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-          <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
           <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+          <img height="50em" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg"/>
+          <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+          <img height="50em" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/spring/spring-original.svg"/>
           <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+          <img height="50em" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tailwindcss/tailwindcss-plain.svg"/>
           <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"" />
           <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
           <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+          <img height="50em" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original.svg"/>
 </div>
 
 ## 
