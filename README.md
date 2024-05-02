@@ -81,5 +81,5 @@ object **Félix** {
     alt="Ilustração do número de visitantes no perfil"
   />
 </p>
-          
 
+![Snake animation](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
