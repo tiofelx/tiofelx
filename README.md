@@ -62,7 +62,7 @@ object **Félix** {
     <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
     <img height="50em" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original.svg"/>
     <img height="50em" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-plain.svg"/>
-    <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+    <img height="50em" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 </div>
 
 
