@@ -55,7 +55,7 @@ object **Félix** {
           <img height="50em" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg"/>
           <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
           <img height="50em" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/spring/spring-original.svg"/>
-          <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+          <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python.svg" />
           <img height="50em" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tailwindcss/tailwindcss-plain.svg"/>
           <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"" />
           <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
