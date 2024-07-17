@@ -8,7 +8,7 @@ object **Félix** {
  val name = "João Pedro Félix Velho"
  val acknowledgements = "Software Engineer"
 
- val primarySkillset = "ESTOU ESTUDANDO"
+ val primarySkillset = "I'M LEARNING"
  val languages = listOf("Python, Java", "Spring Boot", "MongoDB", "Docker", "AWS")
 
 }
