@@ -31,6 +31,7 @@ object **Félix** {
 </table>
 <br />
 
+
 ### 🏆 GitHub Profile Trophy:
 
 <p align="center">
