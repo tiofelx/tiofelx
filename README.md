@@ -14,7 +14,6 @@ object **Félix** {
 ```
 
 ### ⚙️ GitHub Analytics
-
 <table>
   <tr>
     <td>
