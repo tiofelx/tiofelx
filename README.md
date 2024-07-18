@@ -10,11 +10,10 @@ object **Félix** {
 
  val primarySkillset = "I'M LEARNING"
  val languages = listOf("Python, Java", "Spring Boot", "MongoDB", "Docker", "AWS")
-
 }
 ```
-### ⚙️ GitHub Analytics
 
+### ⚙️ GitHub Analytics
 
 <table>
   <tr>
@@ -51,13 +50,9 @@ object **Félix** {
 
 <div align="center" style="display: inline-block">
     <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
     <img height="50em" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg"/>
-    <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     <img height="50em" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/spring/spring-original.svg"/>
     <img height="50em" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
-    <img height="50em" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tailwindcss/tailwindcss-plain.svg"/>
-    <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
     <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
     <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
     <img height="50em" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original.svg"/>
