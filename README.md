@@ -18,10 +18,7 @@ object **Félix** {
 <table>
   <tr>
     <td>
-      <img
-        align="center"
-        src="https://github-readme-stats.vercel.app/api?username=tiofelx&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true"
-      />
+      
       <br />
       <img
         align="center"
