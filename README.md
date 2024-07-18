@@ -19,7 +19,7 @@ object **Félix** {
     <td>
       <img
         align="center"
-        src="https://github-readme-stats.vercel.app/api?username=tiofelx&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true"
+        src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
       />
       <br />
       <img
