@@ -9,7 +9,7 @@ object **Félix** {
  val acknowledgements = "Python Developer"
 
  val primarySkillset = "I'M LEARNING"
- val languages = listOf("Python, Java", "Spring Boot", "MongoDB", "Docker", "AWS")
+ val languages = listOf("Python, "MongoDB", "Docker", "AWS")
 }
 ```
 
