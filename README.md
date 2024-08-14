@@ -50,6 +50,7 @@ object **Félix** {
 <div align="center" style="display: inline-block">
     <img height="50em" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg"/>
     <img height="50em" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
+    <img height="50em" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" />
     <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
     <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
     <img height="50em" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original.svg"/>
