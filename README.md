@@ -6,10 +6,10 @@
 ```kotlin
 object **Félix** {
  val name = "João Pedro Félix Velho"
- val acknowledgements = "Python Developer"
+ val acknowledgements = "Data Engineer"
 
  val primarySkillset = "I'M LEARNING"
- val languages = listOf("Python", "PowerBI","MongoDB", "Docker", "AWS")
+ val languages = listOf("Python", "Snowflake","MongoDB", "Docker", "AWS")
 }
 ```
 
