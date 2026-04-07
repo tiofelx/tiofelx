@@ -11,6 +11,7 @@ object Félix {
  val primarySkillset = "I'M LEARNING"
  val languages = listOf("Python", "Snowflake", "MongoDB", "Docker", "AWS")
 }
+```
 
 ## Mais sobre mim
 
